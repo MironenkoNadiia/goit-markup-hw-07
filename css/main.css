@@ -710,7 +710,7 @@ h4 {
   fill: #AFB1B8;
 }
 
-.button-icon-five .button-client:hover .button-icon-five {
+.button-client:hover .button-icon-five {
   fill: #2196f3;
   -webkit-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -870,7 +870,6 @@ h4 {
   background-color: #F5F4FA;
   color: #212121;
   font-weight: 700;
-  font-size: 1.6;
   cursor: pointer;
 }
 

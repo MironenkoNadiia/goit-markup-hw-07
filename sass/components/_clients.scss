@@ -64,7 +64,7 @@
   height: 47px;
   fill: #AFB1B8;
 
-  .button-client:hover .button-icon-five {
+  .button-client:hover & {
     fill: $accent-color;
     transition: $hover;
 }
