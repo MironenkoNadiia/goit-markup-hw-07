@@ -86,7 +86,7 @@ section {
 }
 
 h2 {
-  color: var(--secondary-color);
+  color: $secondary-color;
   margin-top: 0;
   margin-bottom: 50px;
   text-align: center;
@@ -96,7 +96,7 @@ h3 {
 }
 h4 {
   margin-bottom: 16px;
-  font-style: 400px;
+  font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 1.2;
